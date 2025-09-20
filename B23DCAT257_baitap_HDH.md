@@ -1,5 +1,5 @@
 # Bài tập Linux & Hệ điều hành
-#Phạm Khắc Sang - B23DCAT257
+# Phạm Khắc Sang - B23DCAT257
 
 ## Câu 1 --- Mô-đun kernel "chào/tạm biệt" (C + CLI)
 
